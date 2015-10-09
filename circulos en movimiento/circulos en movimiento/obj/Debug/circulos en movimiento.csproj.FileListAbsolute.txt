@@ -1,0 +1,18 @@
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\bin\Debug\circulos en movimiento.exe.config
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\bin\Debug\circulos en movimiento.exe
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\bin\Debug\circulos en movimiento.pdb
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\obj\Debug\circulos en movimiento.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\obj\Debug\circulos_en_movimiento.Form1.resources
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\obj\Debug\circulos_en_movimiento.Properties.Resources.resources
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\obj\Debug\circulos en movimiento.csproj.GenerateResource.Cache
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\obj\Debug\circulos en movimiento.exe
+C:\Users\Sergio\AppData\Local\Temporary Projects\circulos en movimiento\obj\Debug\circulos en movimiento.pdb
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\bin\Debug\circulos en movimiento.exe.config
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\obj\Debug\circulos en movimiento.exe
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\obj\Debug\circulos en movimiento.pdb
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\bin\Debug\circulos en movimiento.exe
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\bin\Debug\circulos en movimiento.pdb
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\obj\Debug\circulos en movimiento.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\obj\Debug\circulos_en_movimiento.Form1.resources
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\obj\Debug\circulos_en_movimiento.Properties.Resources.resources
+C:\Users\Sergio\Desktop\tarea 1\circulos en movimiento\circulos en movimiento\obj\Debug\circulos en movimiento.csproj.GenerateResource.Cache
